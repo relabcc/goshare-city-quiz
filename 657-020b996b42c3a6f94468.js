@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstyled_gatsby_starter=self.webpackChunkstyled_gatsby_starter||[]).push([[657],{4657:function(e,t,s){s.r(t);var r=s(5444),a=s(7294),n=s(2407),u=s(3324);t.default=function(){var e=(0,r.useStaticQuery)("1244908112").allDesktopJson.nodes,t=(0,a.useMemo)((function(){return e.map((function(e){return Object.assign({},e,{image:(0,n.d)(e.image)})})).reverse()}),[e]);return a.createElement(u.Z,{key:"desktop",width:2560,height:1140,images:t})}}}]);
+//# sourceMappingURL=657-020b996b42c3a6f94468.js.map
