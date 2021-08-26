@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-question-js",
-    "path": "/q/2",
-    "result": {"data":{"questionsJson":{"question":"下午同事發起飲料團購，飲料到了，卻不是你點的那杯，此時你會...","options":["揪出兇手：有人拿錯了吧？快交出來！","再次檢查訂單，確認自己沒有點錯","喝這杯也可以啦，不都甜甜的？"]}},"pageContext":{"id":"2","isLast":false,"length":6}},
-    "staticQueryHashes": ["745834303"]}

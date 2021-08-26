@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-question-js",
-    "path": "/q/3",
-    "result": {"data":{"questionsJson":{"question":"你暗戀很久的他/她，走過來對你說了一句話。他/她說...","options":["「週末有空嗎？」","「你可以幫我一個忙嗎？」","「欸，借過一下...」"]}},"pageContext":{"id":"3","isLast":false,"length":6}},
-    "staticQueryHashes": ["745834303"]}
